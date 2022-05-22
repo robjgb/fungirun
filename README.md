@@ -1,6 +1,7 @@
 # FUNGI RUN!
 
 🍄 Web3 based auto-scroller game that aims to reward competitive users with rewards in the form of NFTs.🍄 
+[Play here!](https://fungi-run.glitch.me/)
 
 ## Built with Glitch!
 
